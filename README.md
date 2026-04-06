@@ -12,3 +12,7 @@ You are tasked with completing a vulnerability assessment of the situation to co
 
 ## Formula
 Liklihood (1-3) x Severity (1-3) = Risk (1-9)
+
+## NIST SP 800-30
+The purpose of Special Publication 800-30 is to provide guidance for conducting risk assessments of federal information systems and organizations, amplifying the guidance in Special Publication 800-39
+
